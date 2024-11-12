@@ -1,0 +1,5 @@
+os
+taipy
+torch
+transformers
+scipy
