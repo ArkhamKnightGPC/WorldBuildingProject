@@ -2,4 +2,5 @@ os
 taipy
 torch
 transformers
+flask
 scipy
